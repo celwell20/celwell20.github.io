@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>How to Make Changes to a GitHub Wiki</h1>
+<h2>Contents</h2>
+<p> 1. Stuff</p>
+</body>
+</html>
